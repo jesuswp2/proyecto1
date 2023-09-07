@@ -8,6 +8,7 @@ public class Principal {
 	}
 
 	int edad;
+	String nombre;
 	public int getEdad() {
 		return edad;
 	}
@@ -21,7 +22,7 @@ public class Principal {
 		this.nombre = nombre;
 	}
 
-	String nombre;
+//opss
 	
 	
 	
