@@ -7,5 +7,9 @@ public class Principal {
 
 	}
 
+	int edad;
+	String nombre;
+	
+	
 	
 }
